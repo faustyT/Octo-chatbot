@@ -1,0 +1,5 @@
+OPENROUTER_API_KEY = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_API_KEY = "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"
+GOOGLE_API_KEY = "AIzaSyDhydRyrhrBn5WMQVNHbMGhEvIIHlvgs0E"
+CX = "12a66b45e33b941cd"
+openai.api_key = "your_openai_api_key"  # Optional
